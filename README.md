@@ -1,7 +1,15 @@
-### Hi there 👋
+![nyngwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight)
+
+#### 👋 Hi hi
+
+- ???????????????????????
+
+#### 📫 Contact
+
+- [/u/nyngwang on reddit](https://afk;sdjf;lkasdjfkl;ajsd;klfjas;lkdjf)
 
 <!--
-**nyngwang/nyngwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ibhagwan/ibhagwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
