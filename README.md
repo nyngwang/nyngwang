@@ -1,7 +1,29 @@
-![nyngwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight)
+#### 👋 Hi hi, these graphs are so fun
+
+<p align="left"> 
+  <a href="https://github.com/nyngwang/nyngwang/">
+    <img src="https://komarev.com/ghpvc/?username=nyngwang" alt="yujinyuz" />
+  </a>
+  <a href="http://twitter.com/;;;;;;;;;;;;">
+    <img height="20" src="https://img.shields.io/twitter/follow/;;;;;;;;;;;;;;;;?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/nyngwang">
+    <img height="20" src="https://img.shields.io/github/followers/nyngwang?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://www.reddit.com/user/;;;;;;;;;;;;;;;;;;;;;">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/;;;;;;;;;;;;?label=Reddit&logo=reddit&style=flat" />
+  </a>
+  <a href="https://stackoverflow.com/users/000000000/;;;;;;;;;;;;;;;">
+    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/000000000000?label=StackOverflow&logo=stack-overflow&style=flat" />
+  </a>
+</p>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=nyngwang&column=7)
 
-#### 👋 Hi hi
+![nyngwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyngwang)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### 📫 Contact
 
