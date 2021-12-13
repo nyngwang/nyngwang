@@ -1,4 +1,4 @@
-#### 👋 Hi hi, these graphs are so fun
+#### 👋 Hi hi, I'm Ning, a keyboard driven developer. These graphs are so fun btw
 
 <p align="left"> 
   <a href="https://github.com/nyngwang/nyngwang/">
