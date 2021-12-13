@@ -1,3 +1,5 @@
+<p align="center"><img src="https://count.getloli.com/get/@nyngwang.github" alt="view-counter"></p>
+
 #### 👋 Hi hi, I'm Ning, a keyboard driven developer. These graphs are so fun btw
 
 <p align="left"> 
