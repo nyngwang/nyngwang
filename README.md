@@ -20,12 +20,14 @@
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nyngwang&column=7)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nyngwang&column=7" />
+  <img src="https://user-images.githubusercontent.com/24765272/149736952-c193e560-3c6b-46dc-b7a5-f82878ca4b12.png" width="1000">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight" alt="nyngwang's GitHub Status">
+</p>
 
-![nyngwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyngwang)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- ![nyngwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight) -->
 
 #### 📫 Contact
 
