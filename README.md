@@ -24,6 +24,7 @@
   <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg" />
   <img src="https://github-profile-trophy.vercel.app/?username=nyngwang&column=7&theme=onedark" />
   <img src="https://user-images.githubusercontent.com/29489988/155850356-508945f8-0e26-4cb5-bfe7-ceacdba5676a.png" width="1000">
+  <img src="https://user-images.githubusercontent.com/24765272/157712462-c5835922-d4c6-4277-8c64-f8c260cea1ba.png" width="1000">
   <img src="https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight" alt="nyngwang's GitHub Status">
 </p>
 
