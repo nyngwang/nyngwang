@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg" />
   <img src="https://github-profile-trophy.vercel.app/?username=nyngwang&column=7&theme=onedark" />
   <img src="https://user-images.githubusercontent.com/24765272/160227540-9e7d4e2e-c997-4979-8b0f-4ba362239b0f.png" width="1000">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight" alt="nyngwang's GitHub Status">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight" alt="nyngwang's GitHub Status"> -->
 </p>
 
 
