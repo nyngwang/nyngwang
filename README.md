@@ -20,6 +20,8 @@
   </a> -->
 </p>
 
+<img src="https://avatars.githubusercontent.com/u/2105791" width="100">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg" />
   <img src="https://github-profile-trophy.vercel.app/?username=nyngwang&column=7&theme=onedark" />
