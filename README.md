@@ -12,7 +12,11 @@
   </a>
 </p>
 
-<img src="https://avatars.githubusercontent.com/u/9637642" width="100"><img src="https://avatars.githubusercontent.com/u/2105791" width="100">
+<p align="right" >
+  <img src="https://avatars.githubusercontent.com/u/9637642" width="100">
+  <img src="https://avatars.githubusercontent.com/u/2105791" width="100">
+  <img src="https://avatars3.githubusercontent.com/u/6471485" width="100">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg" />
