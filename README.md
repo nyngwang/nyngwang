@@ -1,15 +1,12 @@
 <p align="center">
   <img src="https://count.getloli.com/get/@nyngwang.github" alt="view-counter">
-  <img src="https://github-profile-trophy.vercel.app/?username=nyngwang&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nyngwang&column=7&theme=onedark">
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/nyngwang/nyngwang/">
-    <img src="https://komarev.com/ghpvc/?username=nyngwang" alt="nyngwang" />
-  </a>
-  <a href="https://github.com/nyngwang">
-    <img height="20" src="https://img.shields.io/github/followers/nyngwang?label=follow&logo=github&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=nyngwang" alt="nyngwang">
+  <img src="https://img.shields.io/github/followers/nyngwang?label=follow&logo=github&style=flat">
+  <img src="https://wakatime.com/badge/user/2bffab0b-a408-47b2-96bf-5f02aef972af.svg">
 </p>
 
 <p align="right" >
