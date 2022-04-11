@@ -17,7 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg" />
+  <img src="https://user-images.githubusercontent.com/24765272/162728223-15741412-f18b-4b38-9600-24e51b6aa2d5.jpg" width="500">
+  <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg">
 </p>
 
 <!-- ![nyngwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight) -->
