@@ -10,6 +10,7 @@
 </p>
 
 <p align="right" >
+  <img src="https://user-images.githubusercontent.com/24765272/162728752-25bc6f34-06b6-4e20-8b8e-41a7b4b6b649.gif" width="100">
   <img src="https://avatars.githubusercontent.com/u/51609341" width="100">
   <img src="https://avatars.githubusercontent.com/u/9637642" width="100">
   <img src="https://avatars.githubusercontent.com/u/2105791" width="100">
@@ -17,12 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/24765272/162728223-15741412-f18b-4b38-9600-24e51b6aa2d5.jpg" width="500"><img src="https://user-images.githubusercontent.com/24765272/162728752-25bc6f34-06b6-4e20-8b8e-41a7b4b6b649.gif" width="100">
-  
-
-https://user-images.githubusercontent.com/24765272/162729395-e918ce9d-cc35-4833-95df-04b432e8e767.mov
-
-
   <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg">
 </p>
 
