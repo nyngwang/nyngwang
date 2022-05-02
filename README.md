@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://count.getloli.com/get/@nyngwang.github" alt="view-counter">
   <img src="https://github-profile-trophy.vercel.app/?username=nyngwang&column=7&theme=onedark">
 </p>
@@ -20,13 +20,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nyngwang/nyngwang/output/github-contribution-grid-snake.svg">
   <img src="https://static.wikia.nocookie.net/leagueoflegends/images/5/5f/Season_2019_-_Challenger_1.png">
-</p>
+</p> -->
 
 
 <!-- ![nyngwang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nyngwang&count_private=true&show_icons=true&theme=tokyonight) -->
 
 
-#### 📫 Contact
+<!-- #### 📫 Contact -->
 
 <!-- - [/u/nyngwang on reddit](https://afk;sdjf;lkasdjfkl;ajsd;klfjas;lkdjf) -->
 
